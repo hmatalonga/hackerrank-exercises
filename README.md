@@ -1,2 +1,2 @@
-# hackerrank-exercises
-My solutions to HackerRank exercises
+# HackerRank Exercises
+> My solutions to HackerRank exercises
