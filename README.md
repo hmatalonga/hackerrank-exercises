@@ -2,6 +2,6 @@
 
 > My solutions to HackerRank exercises
 
-## Tracks:
+## Tracks
 
 - [10 Days of Statistics](/10-days-of-statistics)
